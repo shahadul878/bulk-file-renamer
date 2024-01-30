@@ -23,3 +23,9 @@ Batch Rename Script is a Bash tool that facilitates the bulk renaming of files a
 
    ```bash
    chmod +x batch_rename.sh
+   ```
+2. Run the script:
+
+   ```bash
+   ./batch_rename.sh
+   ``` 
