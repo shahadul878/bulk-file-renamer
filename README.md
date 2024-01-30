@@ -1,6 +1,21 @@
 # Batch Rename Script
 
-This Bash script allows you to batch rename files and directories in a specified directory by searching for a given string and replacing it with another.
+Batch Rename Script is a Bash tool that facilitates the bulk renaming of files and directories within a specified directory. It allows users to search for a particular string and replace it with another, streamlining the renaming process.
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Example](#example)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **User-Friendly:** Simple command-line interface with interactive prompts for directory, search string, and replace string.
+- **Recursive Search:** Recursively searches through files and subdirectories within the specified directory.
+- **Safe Renaming:** Utilizes the `find` command and `sed` for safe and efficient batch renaming.
 
 ## Usage
 
